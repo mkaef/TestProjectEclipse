@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Eric
+ *
+ */
+module TestProjectEclipse {
+}
